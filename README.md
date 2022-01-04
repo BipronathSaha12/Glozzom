@@ -18,7 +18,7 @@ Click these link to check the documentation:
 - [Jquery](https://jquery.com/)
 - [Popper](https://popper.js.org/docs/v2/)
 - [Jquery](https://github.com/meanthemes/meanMenu)
-  
+- [Slick](https://kenwheeler.github.io/slick/)
 <hr> 
 All Rights Reserved By <em> Bipronath Saha </em> &copy; 2021.
 
